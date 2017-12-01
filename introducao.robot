@@ -26,7 +26,7 @@ Abrir o ${browser} na pagina <${url}>
     Open Browser  ${url}  ${browser}
 
 Digite "${palavra busca}" no campo de busca
-    Set Suite Variable  ${palavra busca}
+    Set Test Variable  ${palavra busca}
     Input text      id = lst-ib  ${palavra busca}
     Click Button    Pesquisa Google
 
