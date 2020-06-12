@@ -1,4 +1,3 @@
-# robot-framework-blog-concrete
 Repositório com exemplos do post do blog da Concrete (fora do ar)
 
 # Testes web com Robot Framework para Python: Introdução
